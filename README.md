@@ -10,6 +10,7 @@ I am using a simple TiddlyWiki mainly to collect links to resources on the web. 
 ## How do I use it?
 It's a simple HTML file containing everything you need. Open it using your favorite browser.
 If some of you are interested in having it hosted, I could also upload it to some server serving the HTML file.
+![alt text](https://raw.githubusercontent.com/baerli/InfoSec-TiddlyWiki/master/tiddly.jpg)
 
 ## Updates
 Since I am collection stuff all the time whenevner some interesting resources come up, I will update the TiddlyWiki as well. 
